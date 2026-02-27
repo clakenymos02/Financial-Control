@@ -1,4 +1,4 @@
-## ✨ Descrição do Projeto
+### ✨ Descrição do Projeto
 
 Este repositório reúne todo o processo de criação do **Financial Control**, um aplicativo de organização de finanças pessoais desenvolvido como parte de um projeto da **Digital Innovation One (DIO)**.  
 
@@ -24,6 +24,9 @@ O fluxo de navegação foi pensado para ser **simples e circular**: o usuário i
 
 ### 🔎 Por que este projeto é especial?
 Porque une **tecnologia e educação financeira** em um formato leve e envolvente. Mais do que um app, o *Financial Control* é um **companheiro digital** que ajuda iniciantes a dar os primeiros passos rumo a uma vida financeira mais organizada.  
+
+### 📚 O que aprendi
+Aprendi que é totalmente possível criar apps simples com o uso da IA. Porém, é necessário ter pelo menos uma noção de **interfaces de aplicativos e UX/UI**, pois sem isso fica difícil estruturar uma experiência funcional. Também percebi que, mesmo sem funções complexas, é viável criar um app acessível e publicá-lo, desde que o foco esteja na simplicidade e clareza da interação com o usuário.  
 
 ---
 
