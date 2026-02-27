@@ -1,0 +1,44 @@
+# Contexto
+Criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas naturais com o usuário, tornando o controle financeiro simples, intuitivo e personalizado.
+
+# Problema
+Apps atuais exigem entradas manuais e pouca personalização, o que desmotiva iniciantes. Nosso app resolve isso com interação por chat e recomendações automáticas de economia.
+
+# Público-Alvo
+Pessoas que querem começar a organizar suas finanças de forma prática e guiada, sem complicação, principalmente iniciantes.
+
+# Funcionalidades-Chave
+**MVP:**
+1. Registrar gastos via chat em linguagem natural  
+2. Classificar automaticamente transações  
+3. Definir e acompanhar metas financeiras  
+4. Visualizar relatórios simples e personalizados  
+
+**Futuro:**
+5. Receber dicas de economia do “Agente Financeiro”  
+6. Analisar risco financeiro de determinados gastos  
+
+# Telas do MVP
+1. **Tela de Chat** – interface principal para registrar gastos e interagir com o app.  
+2. **Tela de Metas** – definir objetivos financeiros e acompanhar progresso.  
+3. **Tela de Relatórios** – visualizar gráficos simples e personalizados dos gastos.  
+4. **Tela de Configurações** – ajustar idioma, acessibilidade, modo claro/escuro e personalização visual.  
+
+# Fluxo de Navegação
+- O usuário inicia na **Tela de Chat**, onde registra gastos e conversa com o app.  
+- Do Chat, pode acessar:  
+  - **Tela de Metas** para criar e acompanhar objetivos.  
+  - **Tela de Relatórios** para visualizar gráficos e análises simples.  
+  - **Tela de Configurações** para personalizar idioma, acessibilidade e aparência.  
+- O fluxo é simples e circular: o usuário sempre retorna ao **Chat** como tela principal.  
+
+# Personalização do App
+- Paleta de cores suaves (azul e verde)  
+- Modo claro e escuro  
+- Funções de acessibilidade (fonte ajustável, contraste)  
+- Idiomas configuráveis  
+- Marca d’água discreta “Financial Control”  
+
+# Entregável da IA
+Gerar plano de MVP com principais telas (chat, metas, relatórios, configurações), recursos necessários (NLP, categorização automática, dashboard simples) e esboço de validação inicial com usuários iniciantes.  
+Tom educativo e linguagem acessível, em português.
